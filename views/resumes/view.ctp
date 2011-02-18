@@ -1,0 +1,1 @@
+<? $this->Html->css('themes/'.$theme_slug, null, array('inline' => false))?>

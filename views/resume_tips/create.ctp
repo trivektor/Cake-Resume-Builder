@@ -1,0 +1,1 @@
+<? $this->set('title_for_layout', 'Submit A Resume Tip') ?>
